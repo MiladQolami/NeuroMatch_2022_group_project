@@ -1,1 +1,1 @@
-# NeuroMatch_2022_group_project
+# NeuroMatch 2022 group project
